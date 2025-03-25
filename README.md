@@ -2,7 +2,7 @@
 The complete code and datasets will be made public after the paper is accepted.
 
 ## Datasets
-DHA, ESP-Game, COIL20, Flickr, IAPR-TC 12, Cora, BBCSport, and Wiki datasets can be downloaded from [Baidu Cloud](https://pan.baidu.com/)s.
+DHA, ESP-Game, COIL20, Flickr, IAPR-TC 12, Cora, BBCSport, and Wiki datasets can be downloaded from [Baidu Clouds](https://pan.baidu.com/).
 
 ## Usage
 
