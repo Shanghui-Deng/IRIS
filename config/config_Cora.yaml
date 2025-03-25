@@ -1,0 +1,18 @@
+dataset_name: "/home/shanghui/dsh/datasets/MVC/Cora-2V.mat"
+data_name : "Cora"
+dataset_x_name: "X"
+dataset_y_name: "Y"
+drop_last : True
+
+# hidden layer dimension
+h_dim: 1024
+z_dim : 128
+gpu: "cuda"
+seed: 43
+with_lowrank : True
+
+lr : 0.0001
+weight_decay : 0.0000001
+epochs : 100
+batch_size : 256
+pretrain_epoch : 100
